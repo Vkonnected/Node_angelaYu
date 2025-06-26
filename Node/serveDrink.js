@@ -1,0 +1,5 @@
+class DrinkCoffee{
+    serveCoffee(size) {
+        
+    }
+}
